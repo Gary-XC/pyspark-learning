@@ -1,6 +1,7 @@
 # Journey Of Learning PySpark
 
 [Tutorials (Project Based Learning)](https://towardsdatascience.com/pyspark-for-beginners-mastering-the-basics/)
+[FreeCodeCamp: PySpark Tutorial](https://www.youtube.com/watch?v=_C8kWso4ne4)
 
 ## What is PySpark?
 - Python api for Apache spark
@@ -13,7 +14,7 @@
     - instead when pyspark is run locally, it simulates how a cluster works using multiple cores
     - the locally developed code can then be deployed to an actual cluster with little to no changes
 
-
+## How Pyspark Works
 ### 1. Clusters
 - group of servers that are networked together and can help each other
 - there is one machine that is the driver or coordinator(orchestrator): 
