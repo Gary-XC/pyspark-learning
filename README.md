@@ -1,6 +1,6 @@
 # Journey Of Learning PySpark
 
-[PySpark Basics](https://towardsdatascience.com/pyspark-for-beginners-mastering-the-basics/)
+[How PySpark Works](https://towardsdatascience.com/pyspark-for-beginners-mastering-the-basics/)
 [PySpark for Data Engineers](https://www.youtube.com/watch?v=laP5dL0By84)
 [FreeCodeCamp: PySpark Tutorial](https://www.youtube.com/watch?v=_C8kWso4ne4)
 [PySpark Advanced Guide](https://okram.co.in/tutorial/pyspark-tutorial-the-ultimate-guide/)
