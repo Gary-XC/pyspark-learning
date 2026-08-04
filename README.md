@@ -1,7 +1,10 @@
 # Journey Of Learning PySpark
 
-[Tutorials (Project Based Learning)](https://towardsdatascience.com/pyspark-for-beginners-mastering-the-basics/)
+[PySpark Basics](https://towardsdatascience.com/pyspark-for-beginners-mastering-the-basics/)
+[PySpark for Data Engineers](https://www.youtube.com/watch?v=laP5dL0By84)
 [FreeCodeCamp: PySpark Tutorial](https://www.youtube.com/watch?v=_C8kWso4ne4)
+[PySpark Advanced Guide](https://okram.co.in/tutorial/pyspark-tutorial-the-ultimate-guide/)
+[PySpark: Performance Tuning Guide](https://chengzhizhao.com/the-ultimate-apache-spark-guide-performance-tuning-pyspark-examples-and-new-4-0-features/)
 
 ## What is PySpark?
 - Python api for Apache spark
